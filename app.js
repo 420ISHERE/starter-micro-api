@@ -39,7 +39,7 @@ const data = {
 
   const options = {
     method: "POST",
-    auth: "gaurav:bddd8405feba82c9a7813f509c2d2688-us21",
+    auth: "gaurav: bddd8405feba82c9a7813f509c2d2688-us21",
   }
 
   const request = https.request(url, options, function(response){
